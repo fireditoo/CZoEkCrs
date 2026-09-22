@@ -1,0 +1,2 @@
+# CZoEkCrs
+2025年通信工程毕设一套基于CiscoPacketTracer的大客户网络设计与仿真基于CiscoPacketTracer的大客户网络设计与仿真(论文+外文翻译开题调研报告电路原理图原程序清单文档)定稿.zip
